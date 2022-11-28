@@ -1,0 +1,8 @@
+{
+  "name": "ionic react practice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "linuxAndroidStudioPath": "/snap/bin/android-studio"
+}
